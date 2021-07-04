@@ -1,2 +1,2 @@
 # GoPatterns
-Some patterns of go 
+Some **Simple Design Patterns** read from some awesome source code.
